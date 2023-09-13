@@ -16,14 +16,19 @@ body{
     height: 100vh;
     margin: 0;
     padding: 20px;
+   
 }
 
 
-
+h1{
+    color: var(--primary-color);
+}
 
 p, h1{
     text-align: center;
 }
+
+
 
 .btn{
     color: #ffff;
